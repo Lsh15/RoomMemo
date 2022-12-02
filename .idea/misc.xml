@@ -4,9 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/SH/AndroidStudioProjects/RoomEx/app/src/main/res/drawable/square_background.xml" value="0.206" />
+        <entry key="..\:/Users/SH/AndroidStudioProjects/RoomEx/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/SH/AndroidStudioProjects/RoomEx/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
         <entry key="..\:/Users/SH/AndroidStudioProjects/RoomEx/app/src/main/res/layout/activity_success.xml" value="0.22780797101449277" />
         <entry key="..\:/Users/SH/AndroidStudioProjects/RoomEx/app/src/main/res/layout/holder_memo.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/SH/AndroidStudioProjects/RoomMemo/app/src/main/res/layout/activity_main.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/SH/AndroidStudioProjects/RoomMemo/app/src/main/res/layout/holder_memo.xml" value="0.25364583333333335" />
       </map>
     </option>
   </component>
